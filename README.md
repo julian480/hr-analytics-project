@@ -7,6 +7,7 @@ Salt Corporation is losing employees. Many are leaving the company.
 To understand why employees are leaving and what can be improved.
 
 ## 📊 Dataset
+- Data was provided by the DataCamp organization that trained me during the program. This data was for public use.
 - 1,000 employees
 - 24 columns
 - Year: 2024
@@ -34,8 +35,7 @@ To understand why employees are leaving and what can be improved.
 - Improve company culture
 
 ## 📎 Files
-- Data → /data
-- Presentation → /presentation
+- raw_data.xlsx, cleaned_data.xlsx, presentation.pptx
 
 ## 🚀 Conclusion
-Employee satisfaction is the biggest reason people leave. Improving it will reduce attrition.
+Low satisfaction is strongly associated with attrition. Further analysis would be needed to confirm cause.
